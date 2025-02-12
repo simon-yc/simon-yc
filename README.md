@@ -8,7 +8,7 @@
   
 ## 🌐 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/simonychau](https://linkedin.com/in/simonychau)
+- **LinkedIn:** [simonychau](https://linkedin.com/in/simonychau)
 
 ## ⚡ Fun Facts
 
