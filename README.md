@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**simon-yc/simon-yc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ About Me
 
-Here are some ideas to get you started:
+- **Name:** Simon
+- **🎓 Education:** CS Specialist at UofT
+- **💼 Profession:** Software Engineer
+  
+## 🌐 Connect with Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **LinkedIn:** [linkedin.com/in/simonychau](https://linkedin.com/in/simonychau)
+
+## ⚡ Fun Facts
+
+- 🐾 I have a cat named after a Pokémon — Eevee!
+- ⚽🏀 Big fan of sports, especially soccer and basketball
+- 🌎 Enjoy the outdoors and travelling
