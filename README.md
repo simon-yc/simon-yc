@@ -2,10 +2,10 @@
 
 ## 🙋‍♂️ About Me
 
-- **Name:** Simon
-- **🎓 Education:** CS Specialist at UofT
-- **💼 Profession:** Software Engineer
-- **🏠 Location:** Toronto, Ontario
+- **📓  Name:** Simon
+- **🎓  Education:** CS Specialist at UofT
+- **💼  Profession:** Software Engineer
+- **🏠  Location:** Toronto, Ontario
   
 ## 🌐 Connect with Me
 
