@@ -14,5 +14,5 @@
 ## ⚡ Fun Facts
 
 - 🐾 I have a cat named after a Pokémon — Eevee
-- ⚽🏀 Big fan of sports, especially soccer and basketball
+- ⚽ Big fan of sports, especially soccer and basketball
 - 🌎 Enjoy the outdoors and travelling
