@@ -3,8 +3,8 @@
 ## 🙋‍♂️ About Me
 
 - **📓 Name:** Simon
-- **🎓 Work:** Computer Science @ UofT
-- **💼 Profession:** Software Engineer @ Shopify
+- **🎓 Education:** Computer Science @ UofT
+- **💼 Work:** Software Engineer @ Shopify
 - **🏠 Location:** Toronto, Ontario
   
 ## 🌐 Connect with Me
