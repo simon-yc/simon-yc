@@ -4,7 +4,7 @@
 
 - **📓 Name:** Simon
 - **🎓 Education:** Computer Science @ UofT
-- **💼 Work:** Software Engineer @ Shopify
+- **💼 Work:** Software Engineer @ Clio (previously @Shopify)
 - **🏠 Location:** Toronto, Ontario
   
 ## 🌐 Connect with Me
